@@ -1,0 +1,464 @@
+body{
+    margin:0;
+    align-items: center;
+    width: 1899px;
+}
+.header{
+    align-items: center;
+    background: #f1f0ed;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    max-height: 820px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.header__section{
+    align-items: center;
+    display: flex;
+    padding: 0 0 0 50px;
+}
+.header__section1{
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    padding: 0 160px 0 0;
+}
+.header__item{
+    font-size: 20px;
+
+    margin-left: 5px;
+    padding: 10px 15px;
+}
+a{
+    color: black;
+    font-family: BlissPro,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover{
+    color: #ff9900;
+    text-shadow: 0 0 0 5px rgba(0,0,0,0.9);
+}
+image{
+    background-size: cover;
+    background-image: url(../images/Gallery/chop.jpg);
+    background-repeat: no-repeat;
+    width: 1899px;
+}
+h1{
+    color: #ff9900;
+    font-family: BlissPro,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.contentMain{
+    align-content: center;
+    margin: 0 auto;
+    max-width: 960px;
+}
+.content{
+    box-sizing: border-box;
+    display: flex;
+    font-family: BlissPro,sans-serif;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 1.5%;
+}
+.contentLeft{
+    max-width: 330px;
+    margin: 0 50px 0 0;
+
+}
+.contentRight{
+    max-width: 330px;
+    margin: 0 0 0 50px;
+
+}
+.links{
+    color: #ff9900;
+    font-size: 12px;
+}
+.adres{
+    color: #ff9900;
+}
+.lineWPick{
+
+    background-color: #f1f0ed;
+    background-image: url(../images/Gallery/BH2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    box-sizing: border-box;
+    height: 135px;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 10px 0 10px 0;
+    width: 100%;
+}
+.catalog{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0 0 0 140px;
+}
+.photo1{
+    background-image: url(../images/Gallery/Gallery2/1.jpeg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.photo2{
+    background-image: url(../images/Gallery/Gallery2/2.jpeg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.photo3{
+    background-image: url(../images/Gallery/Gallery2/3.jpeg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.photo4{
+    background-image: url(../images/Gallery/Gallery2/4.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.photo5{
+    background-image: url(../images/Gallery/Gallery2/5.jpeg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.photo6{
+    background-image: url(../images/Gallery/Gallery2/6.jpeg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+}
+.services{
+    align-content: center;
+    margin: 0 auto;
+    max-width: 960px;
+    z-index: 2;
+}
+.serv-cont{
+    box-sizing: border-box;
+    display: flex;
+    font-family: BlissPro,sans-serif;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 1.5%;
+}
+.serv-left{
+    margin: 10px;
+    width: 470px;
+}
+.serv-right{
+    margin: 10px;
+    width: 470px;
+}
+.descript{
+    font-size: 12px;
+    font-weight: 600;
+    text-align: right;
+}
+.descript2{
+    font-size: 16px;
+    text-align: right;
+}
+.serv-img1{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/haircut.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img2{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/beard.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img3{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/trim.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img4{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/detskaya.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img5{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/fs.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img6{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/korolevskoe_britie.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img7{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/ykladka.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img8{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/strijkaboroda.png");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv-img9{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url("../images/Gallery/Gallery2/serv/tb.jpg");
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 80px;
+}
+.serv1{
+    height: 90px;
+}
+.serv2{
+    height: 90px;
+}
+.serv3{
+    height: 90px;
+}
+.serv4{
+    height: 90px;
+}
+.serv5{
+    height: 90px;
+}
+.serv6{
+    height: 90px;
+}
+.serv7{
+    height: 90px;
+}
+.serv8{
+    height: 90px;
+}
+.serv9{
+    height: 90px;
+}
+.clr{
+    color: #ff9900;
+}
+.employees{
+    align-content: center;
+    margin: 0 auto;
+    width: 960px;
+    text-transform: uppercase;
+}
+.barbers{
+    box-sizing: border-box;
+    display: flex;
+    font-family: BlissPro,sans-serif;
+    font-size: 13px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 13px;
+    padding: 1.5%;
+    text-align: center;
+    z-index: 2;
+}
+.barber{
+    display: flex;
+    flex-direction: column;
+    height: 360px;
+    width: 280px
+}
+.barber{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    z-index: 1;
+
+}
+.bph1{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/AG.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+.bph2{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/AK.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+
+}
+.bph3{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/AM.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+.bph4{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/VS.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+.bph5{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/VC.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+.bph6{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/EK.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+.bph7{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    background-image: url(../images/Barbers/RZ.jpg);
+    box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
+    height: 215px;
+    margin: 5px;
+    width: 215px;
+}
+
+
+
