@@ -46,7 +46,7 @@ a:hover{
 }
 image{
     background-size: cover;
-    background-image: url(../images/Gallery/chop.jpg);
+    background-image: url(chop.jpg);
     background-repeat: no-repeat;
     width: 1899px;
 }
@@ -93,7 +93,7 @@ h1{
 .lineWPick{
 
     background-color: #f1f0ed;
-    background-image: url(../images/Gallery/BH2.png);
+    background-image: url(BH2.png);
     background-repeat: no-repeat;
     background-position: center;
     box-sizing: border-box;
@@ -116,7 +116,7 @@ h1{
     padding: 0 0 0 140px;
 }
 .photo1{
-    background-image: url(../images/Gallery/Gallery2/1.jpeg);
+    background-image: url(1.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -124,7 +124,7 @@ h1{
     width: 120px;
 }
 .photo2{
-    background-image: url(../images/Gallery/Gallery2/2.jpeg);
+    background-image: url(2.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -132,7 +132,7 @@ h1{
     width: 120px;
 }
 .photo3{
-    background-image: url(../images/Gallery/Gallery2/3.jpeg);
+    background-image: url(3.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -140,7 +140,7 @@ h1{
     width: 120px;
 }
 .photo4{
-    background-image: url(../images/Gallery/Gallery2/4.jpg);
+    background-image: url(4.jpg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -148,7 +148,7 @@ h1{
     width: 120px;
 }
 .photo5{
-    background-image: url(../images/Gallery/Gallery2/5.jpeg);
+    background-image: url(5.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -156,7 +156,7 @@ h1{
     width: 120px;
 }
 .photo6{
-    background-image: url(../images/Gallery/Gallery2/6.jpeg);
+    background-image: url(6.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -201,7 +201,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/haircut.png");
+    background-image: url("haircut.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -214,7 +214,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/beard.png");
+    background-image: url("beard.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -227,7 +227,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/trim.png");
+    background-image: url("trim.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -240,7 +240,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/detskaya.png");
+    background-image: url("detskaya.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -253,7 +253,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/fs.png");
+    background-image: url("fs.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -266,7 +266,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/korolevskoe_britie.png");
+    background-image: url("korolevskoe_britie.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -279,7 +279,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/ykladka.png");
+    background-image: url("ykladka.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -292,7 +292,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/strijkaboroda.png");
+    background-image: url("strijkaboroda.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -305,7 +305,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("../images/Gallery/Gallery2/serv/tb.jpg");
+    background-image: url("tb.jpg");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -380,7 +380,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/AG.jpg);
+    background-image: url(AG.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -392,7 +392,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/AK.jpg);
+    background-image: url(AK.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -405,7 +405,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/AM.jpg);
+    background-image: url(AM.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -417,7 +417,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/VS.jpg);
+    background-image: url(VS.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -429,7 +429,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/VC.jpg);
+    background-image: url(VC.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -441,7 +441,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/EK.jpg);
+    background-image: url(EK.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -453,7 +453,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(../images/Barbers/RZ.jpg);
+    background-image: url(RZ.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
