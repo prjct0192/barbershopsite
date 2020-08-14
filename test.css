@@ -46,9 +46,10 @@ a:hover{
 }
 image{
     background-size: cover;
-    background-image: url(chop.jpg);
+    background-image: url(images/chop.jpg);
     background-repeat: no-repeat;
-    width: 1899px;
+    height: auto;
+    max-width: 100%;
 }
 h1{
     color: #ff9900;
@@ -93,7 +94,7 @@ h1{
 .lineWPick{
 
     background-color: #f1f0ed;
-    background-image: url(BH2.png);
+    background-image: url(images/BH2.png);
     background-repeat: no-repeat;
     background-position: center;
     box-sizing: border-box;
@@ -116,7 +117,7 @@ h1{
     padding: 0 0 0 140px;
 }
 .photo1{
-    background-image: url(1.jpeg);
+    background-image: url(images/1.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -124,7 +125,7 @@ h1{
     width: 120px;
 }
 .photo2{
-    background-image: url(2.jpeg);
+    background-image: url(images/2.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -132,7 +133,7 @@ h1{
     width: 120px;
 }
 .photo3{
-    background-image: url(3.jpeg);
+    background-image: url(images/3.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -140,7 +141,7 @@ h1{
     width: 120px;
 }
 .photo4{
-    background-image: url(4.jpg);
+    background-image: url(images/4.jpg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -148,7 +149,7 @@ h1{
     width: 120px;
 }
 .photo5{
-    background-image: url(5.jpeg);
+    background-image: url(images/5.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -156,7 +157,7 @@ h1{
     width: 120px;
 }
 .photo6{
-    background-image: url(6.jpeg);
+    background-image: url(images/6.jpeg);
     background-size: cover;
     box-sizing: border-box;
     height: 120px;
@@ -201,7 +202,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("haircut.png");
+    background-image: url("images/haircut.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -214,7 +215,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("beard.png");
+    background-image: url("images/beard.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -227,7 +228,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("trim.png");
+    background-image: url("images/trim.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -240,7 +241,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("detskaya.png");
+    background-image: url("images/detskaya.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -253,7 +254,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("fs.png");
+    background-image: url("images/fs.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -266,7 +267,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("korolevskoe_britie.png");
+    background-image: url("images/korolevskoe_britie.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -279,7 +280,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("ykladka.png");
+    background-image: url("images/ykladka.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -292,7 +293,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("strijkaboroda.png");
+    background-image: url("images/strijkaboroda.png");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -305,7 +306,7 @@ h1{
     background-position: center;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url("tb.jpg");
+    background-image: url("images/tb.jpg");
     height: 80px;
     margin: 0;
     padding: 0;
@@ -365,14 +366,8 @@ h1{
     display: flex;
     flex-direction: column;
     height: 360px;
-    width: 280px
-}
-.barber{
-    height: 300px;
-    width: 300px;
-    display: flex;
-    z-index: 1;
-
+    margin: 0 10px 0 10px;
+    text-align: center;
 }
 .bph1{
     background-position: center;
@@ -380,10 +375,11 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(AG.jpg);
+    background-image: url(images/AG.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
+    text-align: center;
     width: 215px;
 }
 .bph2{
@@ -392,7 +388,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(AK.jpg);
+    background-image: url(images/AK.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -405,7 +401,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(AM.jpg);
+    background-image: url(images/AM.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -417,7 +413,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(VS.jpg);
+    background-image: url(images/VS.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -429,7 +425,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(VC.jpg);
+    background-image: url(images/VC.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -441,7 +437,7 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(EK.jpg);
+    background-image: url(images/EK.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
@@ -453,12 +449,18 @@ h1{
     background-repeat: no-repeat;
     border: 1px solid #333333;
     border-radius: 50%;
-    background-image: url(RZ.jpg);
+    background-image: url(images/RZ.jpg);
     box-shadow: 0 0 0 0 black, 0 0 0 1px #333333;
     height: 215px;
     margin: 5px;
     width: 215px;
 }
-
+@media screen and (max-width: 480px){
+    .image{
+        height: auto;
+        max-width: 480px;
+        width: 50%;
+    }
+}
 
 

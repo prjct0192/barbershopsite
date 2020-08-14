@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29a4da5-e6ff-460f-90b0-132a31e82aaa" name="Default Changelist" comment="">
+    <list default="true" id="a29a4da5-e6ff-460f-90b0-132a31e82aaa" name="Default Changelist" comment="rename">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AG.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AK.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AK.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AM.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/BH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/BH2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHOP_CHOP.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/CHOP_CHOP.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EK.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/EK.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RZ.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/RZ.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/VC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VS.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/VS.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beard.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/beard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detskaya.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/detskaya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fs.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haircut.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/haircut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kharkov.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kharkov.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/korolevskoe_britie.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/korolevskoe_britie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo-x2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-x2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo-x22.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-x22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strijkaboroda.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/strijkaboroda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/tb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trim.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/trim.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ykladka.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ykladka.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +69,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\barbershopsite\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,11 +84,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597330720676</updated>
-      <workItem from="1597330721722" duration="352000" />
+      <workItem from="1597330721722" duration="7019000" />
     </task>
+    <task id="LOCAL-00001" summary="rename">
+      <created>1597332513167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597332513167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1094" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597332515971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597332515971" />
+    <state x="1157" y="242" key="run.anything.popup" timestamp="1597331522073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1157" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597331522073" />
   </component>
 </project>
