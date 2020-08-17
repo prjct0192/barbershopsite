@@ -22,6 +22,7 @@
     <list default="true" id="a29a4da5-e6ff-460f-90b0-132a31e82aaa" name="Default Changelist" comment="add videos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597330720676</updated>
       <workItem from="1597330721722" duration="11166000" />
+      <workItem from="1597574703888" duration="4229000" />
     </task>
     <task id="LOCAL-00001" summary="rename">
       <created>1597332513167</created>
@@ -93,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename" />
